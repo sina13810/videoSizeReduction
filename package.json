@@ -1,0 +1,21 @@
+{
+  "name": "video-size-reduction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "bullmq": "^4.1.0",
+    "fs": "^0.0.1-security",
+    "math": "^0.0.3",
+    "sharp": "^0.32.1",
+    "telegraf": "^4.12.2"
+  }
+}
